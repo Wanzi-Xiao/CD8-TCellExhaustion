@@ -1,8 +1,10 @@
 # CD8-TCellExhaustion
 Final project for Data Analysis(02602) for Biological Sciences in CMU
 
-This project generally runs a hypothesis test for different groups of data. We applied unpaired t test, one way ANOVA and a Mann-Whitney U test to perform data analysis. 
-
 Main Packages used: Pandas, Numpy, Matplotlib, Seaborn
+
+•	Stated test hypothesis based on the data and performed unpaired t test, one-way ANOVA, a Mann-Whitney U test in Python and performed the analysis of statistical methods 
+•	Imported Pandas, Seaborn and Matplotlib to clean the data and visualized through blox plots, bar plots 
+•	Performed data anlasis for CD8+ T cells in the cancer
 
 
